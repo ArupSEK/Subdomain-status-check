@@ -1,5 +1,4 @@
-# Subdomain-status-check
-Welcome to the Amazing and Hilarious Subdomain Checker! 🚀
+🚀 Welcome to the Amazing and Hilarious Subdomain Checker! 🚀
 
 ![Subdomain Checker](https://github.com/yourusername/your-repo/raw/main/subdomain_checker.png)
 
@@ -46,3 +45,7 @@ The universe is vast, and so are the possibilities with our Subdomain Checker! G
 🌟 Join us on this thrilling, laughter-packed adventure! Together, we'll conquer subdomains and have a blast along the way! 🌟
 
 🚀 May the Subdomain Force be with You! 🚀
+
+python subdomain_checker.py -D my_subdomains.txt -T 4
+-D or --domain-file: Specify the path to your subdomain text file (e.g., my_subdomains.txt).
+-T or --threads: Choose the number of threads to use for concurrent checking. This number depends on your machine's capabilities. You can adjust it to speed up or slow down the checking process.
